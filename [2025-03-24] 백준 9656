@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    long long N; 
+    cin >> N;
+    
+    long long time = 0; // 초를 저장
+    long long K = 1; // 노래할 숫자
+    
+    while (N > 0) { // 새가 남아있는 동안 반복하기
+        if (N < K) { // 현재 불러야 하는 숫자 > 새  : 다시 1부터 시작
+            K = 1;
+        }
+        N -= K; // K마리의 새가 날아감
+        K++; 
+        time++; // 1초 증가함
+    }
+    
+    cout << time << endl; // 총 걸린 시간 출력하기
+    return 0;
+}
