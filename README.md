@@ -1,6 +1,6 @@
 # daily-algorithm
 
-[↗️구글 시트에 데일리 스터디 완료 여부를 체크해주세요!](https://docs.google.com/spreadsheets/d/1IQvj56oO9KaGdG8rSjRrNOplQDCJLGhyUEjVq9OyDj8/edit?gid=1769318491#gid=1769318491)
+[↗️구글 시트에 데일리 스터디 완료 여부를 체크해주세요!](https://docs.google.com/spreadsheets/d/1IQvj56oO9KaGdG8rSjRrNOplQDCJLGhyUEjVq9OyDj8/edit?gid=566325520#gid=566325520)
 
 - **주말은 진행하지 않도록 하겠습니다!**
 - 데일리 스터디 문제 선정은 선착순
